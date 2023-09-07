@@ -1,0 +1,271 @@
+body {
+
+padding: 0;
+
+margin: 0;
+
+background-color: #F5F5F5;
+
+height: auto;
+
+}
+
+.navbar {
+
+    background-color: #F5F5F5;
+
+}
+
+.nav-link {
+
+    color: #192230;
+
+    padding-top: 40px;
+
+    padding-bottom: 40px;
+
+}
+
+.nav-link:hover {
+
+    color: #000;
+
+}
+
+.navbar-collapse {
+
+    justify-content: center;
+
+}
+
+.header {
+
+    background-image: url(./images/setup2.jpg);
+
+    background-size: cover;
+
+    background-position: center;
+
+    position: relative;
+
+}
+
+.overlay {
+
+    position: absolute;
+
+    min-height: 100%;
+
+    min-width: 100%;
+
+    left: 0;
+
+    top: 0;
+
+    background-color: #00000066;
+
+}
+
+.descriptionLanding {
+
+    position: absolute;
+
+    left: 50%;
+
+    top: 45%;
+
+    text-align: center;
+
+    transform: translate(-50%, -55%);
+
+
+}
+
+.descriptionMain h1 {
+
+
+    color: #FFFFFF;
+
+    font-size: 100px;
+
+
+}
+
+.descriptionMain h3 {
+
+    color: #FFFFFF;
+
+    padding: 20px 0;
+
+    font-size: 35px;
+
+}
+
+.descriptionMain h4 {
+
+    color: #FFFFFF;
+
+    padding: 20px 0;
+
+    font-size: 25px;
+
+}
+
+.descriptionMain span {
+
+
+    color: #8133EE;
+
+}
+
+.learningButton {
+
+    background-color: #8B37FF;
+
+    color: #FFFFFF;
+
+    border: 1px solid #8B37FF;
+
+    padding: 10px 40px;
+
+    margin-bottom: 60px;
+
+    margin-top: 60px;
+
+    border-top-left-radius: 30px;
+
+    border-bottom-left-radius: 30px;
+
+    border-top-right-radius: 30px;
+
+    border-bottom-right-radius: 30px;
+
+    font-size: 30px;
+
+}
+
+.row {
+
+    color: white;
+
+    
+
+}
+
+.row div {
+
+    border: 1px solid;
+
+}
+
+#content {
+
+    border: none;
+
+
+}
+
+#content span {
+
+    font-weight: bold;
+
+    font-size: 25px;
+
+}
+
+#contentrow {
+
+    border: none;
+
+    justify-content: center;
+
+}
+
+
+#contentrow h6 {
+
+    padding: 0 10px;
+
+}
+
+#contentrow i {
+
+    font-size: 20px;
+
+}
+
+
+#duration {
+
+    border-top: none;
+
+    border-bottom: none;
+
+    padding: 0 40px;
+    
+
+}
+
+#duration span{
+
+    font-weight: bold;
+
+    font-size: 25px;
+
+}
+
+#durationrow {
+
+    border: none;
+
+    justify-content: center;
+
+}
+
+#durationrow h6 {
+
+    padding: 0 10px;
+
+}
+
+#durationrow i {
+
+    font-size: 20px;
+
+}
+
+#access {
+
+    border: none;
+
+}
+
+#access span {
+
+    font-weight: bold;
+
+    font-size: 25px;
+
+}
+
+#accessrow {
+
+    border: none;
+
+    justify-content: center;
+
+}
+
+#accessrow h6 {
+
+    padding: 0 10px;
+
+}
+
+#accessrow i {
+
+    font-size: 20px;
+
+}
+
+
